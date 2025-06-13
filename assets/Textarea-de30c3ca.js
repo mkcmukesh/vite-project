@@ -1,0 +1,20 @@
+import{j as e}from"./index-b113a18f.js";import{C as a}from"./CopyButton-320cca2e.js";import"./cally-40c1735b.js";const x=()=>e.jsx("div",{className:"w-[150px] h-[600px] z-50 bg-white border border-slate-600 rounded-lg  border-b border-gray-400 ",children:e.jsx("div",{className:"h-full overflow-x-auto overflow-y-auto",children:e.jsxs("div",{className:"h-full w-full min-w-max flex flex-col items-center gap-1 px-1 py-3 ",children:[e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsx("textarea",{className:"textarea",placeholder:"Bio"}),e.jsx(a,{jsxCode:'<textarea className="textarea" placeholder="Bio"></textarea>'})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsx("textarea",{className:"textarea textarea-ghost",placeholder:"Bio"}),e.jsx(a,{jsxCode:'<textarea className="textarea textarea-ghost" placeholder="Bio"></textarea>'})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("fieldset",{className:"fieldset",children:[e.jsx("legend",{className:"fieldset-legend",children:"Your bio"}),e.jsx("textarea",{className:"textarea h-24",placeholder:"Bio"}),e.jsx("div",{className:"fieldset-label",children:"Optional"})]}),e.jsx(a,{jsxCode:`<fieldset className="fieldset">
+  <legend className="fieldset-legend">Your bio</legend>
+  <textarea className="textarea h-24" placeholder="Bio"></textarea>
+  <div className="fieldset-label">Optional</div>
+</fieldset>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsx("textarea",{type:"text",placeholder:"Primary",className:"textarea textarea-primary"}),e.jsx("textarea",{type:"text",placeholder:"Secondary",className:"textarea textarea-secondary"}),e.jsx("textarea",{type:"text",placeholder:"Accent",className:"textarea textarea-accent"}),e.jsx("textarea",{type:"text",placeholder:"Neutral",className:"textarea textarea-neutral"}),e.jsx("textarea",{type:"text",placeholder:"Info",className:"textarea textarea-info"}),e.jsx("textarea",{type:"text",placeholder:"Success",className:"textarea textarea-success"}),e.jsx("textarea",{type:"text",placeholder:"Warning",className:"textarea textarea-warning"}),e.jsx("textarea",{type:"text",placeholder:"Error",className:"textarea textarea-error"}),e.jsx(a,{jsxCode:`<textarea type="text" placeholder="Primary" className="textarea textarea-primary"></textarea>
+<textarea type="text" placeholder="Secondary" className="textarea textarea-secondary"></textarea>
+<textarea type="text" placeholder="Accent" className="textarea textarea-accent"></textarea>
+<textarea type="text" placeholder="Neutral" className="textarea textarea-neutral"></textarea>
+<textarea type="text" placeholder="Info" className="textarea textarea-info"></textarea>
+<textarea type="text" placeholder="Success" className="textarea textarea-success"></textarea>
+<textarea type="text" placeholder="Warning" className="textarea textarea-warning"></textarea>
+<textarea type="text" placeholder="Error" className="textarea textarea-error"></textarea>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsx("textarea",{placeholder:"Bio",className:"textarea textarea-xs"}),e.jsx("textarea",{placeholder:"Bio",className:"textarea textarea-sm"}),e.jsx("textarea",{placeholder:"Bio",className:"textarea textarea-md"}),e.jsx("textarea",{placeholder:"Bio",className:"textarea textarea-lg"}),e.jsx("textarea",{placeholder:"Bio",className:"textarea textarea-xl"}),e.jsx(a,{jsxCode:`<textarea placeholder="Bio" className="textarea textarea-xs"></textarea>
+
+<textarea placeholder="Bio" className="textarea textarea-sm"></textarea>
+
+<textarea placeholder="Bio" className="textarea textarea-md"></textarea>
+
+<textarea placeholder="Bio" className="textarea textarea-lg"></textarea>
+
+<textarea placeholder="Bio" className="textarea textarea-xl"></textarea>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsx("textarea",{className:"textarea",placeholder:"Bio",disabled:!0}),e.jsx(a,{jsxCode:'<textarea className="textarea" placeholder="Bio" disabled></textarea>'})]})})]})})});export{x as default};

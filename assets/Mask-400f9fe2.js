@@ -1,0 +1,27 @@
+import{j as s}from"./index-b113a18f.js";import{C as e}from"./CopyButton-320cca2e.js";import"./cally-40c1735b.js";const c=()=>s.jsx("div",{className:"w-[150px] h-[600px] z-50 bg-white border border-slate-600 rounded-lg  border-b border-gray-400 ",children:s.jsx("div",{className:"h-full overflow-x-auto overflow-y-auto",children:s.jsxs("div",{className:"h-full w-full min-w-max flex flex-col items-center gap-1 px-1 py-3 ",children:[s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-squircle",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-squircle"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-heart",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-heart"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-hexagon",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-hexagon"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-decagon",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-decagon"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-pentagon",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-pentagon"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-diamond",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-diamond"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-square",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-square"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-circle",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-circle"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-star",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-star"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-star-2",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-star-2"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-triangle",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-triangle"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-triangle-3",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-triangle-3"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})}),s.jsx("div",{children:s.jsxs("div",{className:"relative",children:[s.jsx("img",{className:"mask mask-triangle-4",src:"https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp"}),s.jsx(e,{jsxCode:`<img
+  className="mask mask-triangle-4"
+  src="https://img.daisyui.com/images/stock/photo-1567653418876-5bb0e566e1c2.webp" />`})]})})]})})});export{c as default};

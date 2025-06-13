@@ -1,0 +1,35 @@
+import{j as e}from"./index-b113a18f.js";import{C as d}from"./CopyButton-320cca2e.js";import"./cally-40c1735b.js";const a=()=>e.jsx("div",{className:"w-[150px] h-[600px] z-50 bg-white border border-slate-600 rounded-lg  border-b border-gray-400 ",children:e.jsx("div",{className:"h-full overflow-x-auto overflow-y-auto",children:e.jsxs("div",{className:"h-full w-full min-w-max flex flex-col items-center gap-1 px-1 py-3 ",children:[e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("div",{className:"flex w-full flex-col",children:[e.jsx("div",{className:"card bg-base-300 rounded-box grid h-20 place-items-center",children:"content"}),e.jsx("div",{className:"divider",children:"OR"}),e.jsx("div",{className:"card bg-base-300 rounded-box grid h-20 place-items-center",children:"content"})]}),e.jsx(d,{jsxCode:`<div className="flex w-full flex-col">
+  <div className="card bg-base-300 rounded-box grid h-20 place-items-center">content</div>
+  <div className="divider">OR</div>
+  <div className="card bg-base-300 rounded-box grid h-20 place-items-center">content</div>
+</div>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("div",{className:"flex w-full",children:[e.jsx("div",{className:"card bg-base-300 rounded-box grid h-20 grow place-items-center",children:"content"}),e.jsx("div",{className:"divider divider-horizontal",children:"OR"}),e.jsx("div",{className:"card bg-base-300 rounded-box grid h-20 grow place-items-center",children:"content"})]}),e.jsx(d,{jsxCode:`<div className="flex w-full">
+  <div className="card bg-base-300 rounded-box grid h-20 grow place-items-center">content</div>
+  <div className="divider divider-horizontal">OR</div>
+  <div className="card bg-base-300 rounded-box grid h-20 grow place-items-center">content</div>
+</div>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("div",{className:"flex w-full flex-col",children:[e.jsx("div",{className:"card bg-base-300 rounded-box grid h-20 place-items-center",children:"content"}),e.jsx("div",{className:"divider"}),e.jsx("div",{className:"card bg-base-300 rounded-box grid h-20 place-items-center",children:"content"})]}),e.jsx(d,{jsxCode:`<div className="flex w-full flex-col">
+  <div className="card bg-base-300 rounded-box grid h-20 place-items-center">content</div>
+  <div className="divider"></div>
+  <div className="card bg-base-300 rounded-box grid h-20 place-items-center">content</div>
+</div>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("div",{className:"flex w-full flex-col lg:flex-row",children:[e.jsx("div",{className:"card bg-base-300 rounded-box grid h-32 grow place-items-center",children:"content"}),e.jsx("div",{className:"divider lg:divider-horizontal",children:"OR"}),e.jsx("div",{className:"card bg-base-300 rounded-box grid h-32 grow place-items-center",children:"content"})]}),e.jsx(d,{jsxCode:`<div className="flex w-full flex-col lg:flex-row">
+  <div className="card bg-base-300 rounded-box grid h-32 grow place-items-center">content</div>
+  <div className="divider lg:divider-horizontal">OR</div>
+  <div className="card bg-base-300 rounded-box grid h-32 grow place-items-center">content</div>
+</div>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("div",{className:"flex w-full flex-col",children:[e.jsx("div",{className:"divider",children:"Default"}),e.jsx("div",{className:"divider divider-neutral",children:"Neutral"}),e.jsx("div",{className:"divider divider-primary",children:"Primary"}),e.jsx("div",{className:"divider divider-secondary",children:"Secondary"}),e.jsx("div",{className:"divider divider-accent",children:"Accent"}),e.jsx("div",{className:"divider divider-success",children:"Success"}),e.jsx("div",{className:"divider divider-warning",children:"Warning"}),e.jsx("div",{className:"divider divider-info",children:"Info"}),e.jsx("div",{className:"divider divider-error",children:"Error"})]}),e.jsx(d,{jsxCode:`<div className="flex w-full flex-col">
+  <div className="divider">Default</div>
+  <div className="divider divider-neutral">Neutral</div>
+  <div className="divider divider-primary">Primary</div>
+  <div className="divider divider-secondary">Secondary</div>
+  <div className="divider divider-accent">Accent</div>
+  <div className="divider divider-success">Success</div>
+  <div className="divider divider-warning">Warning</div>
+  <div className="divider divider-info">Info</div>
+  <div className="divider divider-error">Error</div>
+</div>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("div",{className:"flex w-full flex-col",children:[e.jsx("div",{className:"divider divider-start",children:"Start"}),e.jsx("div",{className:"divider",children:"Default"}),e.jsx("div",{className:"divider divider-end",children:"End"})]}),e.jsx(d,{jsxCode:`<div className="flex w-full flex-col">
+  <div className="divider divider-start">Start</div>
+  <div className="divider">Default</div>
+  <div className="divider divider-end">End</div>
+</div>`})]})}),e.jsx("div",{children:e.jsxs("div",{className:"relative",children:[e.jsxs("div",{className:"flex w-full",children:[e.jsx("div",{className:"divider divider-horizontal divider-start",children:"Start"}),e.jsx("div",{className:"divider divider-horizontal",children:"Default"}),e.jsx("div",{className:"divider divider-horizontal divider-end",children:"End"})]}),e.jsx(d,{jsxCode:`<div className="flex w-full">
+  <div className="divider divider-horizontal divider-start">Start</div>
+  <div className="divider divider-horizontal">Default</div>
+  <div className="divider divider-horizontal divider-end">End</div>
+</div>`})]})})]})})});export{a as default};
